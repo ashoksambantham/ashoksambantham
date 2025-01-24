@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [ashoksambantham.com](ashoksambantham.com)
+- 👨‍💻 My portfolio available at  [ashoksambantham.com](ashoksambantham.com)
 
 - 💬 Ask me about **Front end development**
 
